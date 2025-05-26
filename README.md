@@ -2,7 +2,7 @@
 
 ## Compilers and Languages
 This repository contains a compiler for the RAT23S programming language that
-was completed in Professor Song Choi's class during the spring semester of 2023.
+was completed in Professor James Choi's class during the spring semester of 2024.
 
 ## Information
 * The program supports both Windows and Linux.
